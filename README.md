@@ -14,5 +14,5 @@
 
 ## contribution
 
-+ [edit](https://github.com/apifunc/python/edit/main/README.md)
-+ [issue]()
++ [Edit Docs](https://github.com/apifunc/python/edit/main/README.md)
++ [New Issue](https://github.com/apifunc/python/issues/new)
