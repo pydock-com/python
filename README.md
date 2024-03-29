@@ -79,7 +79,7 @@ Remember that this script is a starting point, and you can enhance it further ba
 Additionally, consider using existing Dockerfile parsing libraries (e.g., `apifunc`) for more robust solutions.
 
 
-### Start
+### Run local as command line
 
 ```bash
 apifunc build
@@ -91,11 +91,55 @@ run service local
 apifunc run
 ```
 
+### Run remote as command line
+
 
 ```bash
 apifunc run remote ssh://
 ```
 
+
+
+
+
+### Run as a Service
+
+Serve as a service docker swarm, kubernetes, podman, ...
+in nginx, caddy, express, 
+
+
+```bash
+apifunc run nginx
+```
+
+```bash
+apifunc --file Dockerfile run nginx --config nginx.conf
+```
+
+run service local
+
+```bash
+apifunc serve remote ssh://
+```
+
+### Run by Hypervisor
+
+Serve as a virtual service docker swarm, kubernetes, podman, ...
+
+```bash
+apifunc run kube
+```
+
+
+```bash
+apifunc run docker
+```
+
+
+
+```bash
+apifunc run swarm
+```
 
 
 ### Development
