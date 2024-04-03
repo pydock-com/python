@@ -10,3 +10,4 @@
 + [DOCS ## Usage](file:///home/tom/github/apifunc/python/DOCS/index.html)
 + [DOCS ## About](file:///home/tom/github/apifunc/python/DOCS/index.html)
 + [DOCS ## Star History](file:///home/tom/github/apifunc/python/DOCS/index.html)
++ [DOCS ](file:///home/tom/github/apifunc/python/DOCS/index.html)

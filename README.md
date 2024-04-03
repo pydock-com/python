@@ -4,6 +4,7 @@
 
 [![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/apifunc/python) [![GitHub stars](https://img.shields.io/github/stars/apifunc/python.svg?style=flat&label=Star)](https://github.com/apifunc/python/stargazers) [![GitHub forks](https://img.shields.io/github/forks/apifunc/python.svg?style=flat&label=Fork)](https://github.com/apifunc/python/fork) [![GitHub watchers](https://img.shields.io/github/watchers/apifunc/python.svg?style=flat&label=Watch)](https://github.com/apifunc/python/watchers) [![GitHub followers](https://img.shields.io/github/followers/apifunc.svg?label=Follow)](https://github.com/apifunc) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fapifunc%2Fwww&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
+
 ## Menu [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/apifunc/python/edit/main/DOCS/MENU.md)
 
 + [Project](#Project)
@@ -230,19 +231,7 @@ dsl python connection between url by rest
 
 [![Star History Chart](https://api.star-history.com/svg?repos=apifunc/python&type=Date)](https://star-history.com/#apifunc/python&Date)
 
-
-## [Contributions](http://contribution.softreck.dev)
-
-[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
-+ did you found an [Issue or Mistake](https://github.com/apifunc/python/issues/new)?
-+ do you want to [improve](https://github.com/apifunc/python/edit/main/README.md) the article?
-+ are you interested do join another [git projects](https://github.com/apifunc/)?
-+ have something to contribute or discuss? [Open a pull request](https://github.com/apifunc/python/pulls) or [create an issue](https://github.com/apifunc/python/issues).
-
-
----
-
-
+ [<span style='font-size:20px;'>&#x270D;</span>](https://github.com/apifunc/python/edit/main/DOCS/FOOT.md)
 
 <script type="module">    
   import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
