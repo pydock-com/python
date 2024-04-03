@@ -1,6 +1,6 @@
 + [github.com](http://github.com)
 + [DOCS # [python.apifunc.com](http://python.apifunc.com)](http://github.com/DOCS)
-+ [DOCS + [github.com](http://github.com)](http://github.com/DOCS)
++ [#DOCS ](http://github.com/#DOCS)
 + [DOCS ## Menu](http://github.com/DOCS)
 + [DOCS ## Project](http://github.com/DOCS)
 + [DOCS ## References](http://github.com/DOCS)

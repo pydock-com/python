@@ -1,6 +1,6 @@
 + [/home/tom/github/apifunc/python](file:///home/tom/github/apifunc/python/)
 + [DOCS # [python.apifunc.com](http://python.apifunc.com)](file:///home/tom/github/apifunc/python/DOCS/index.html)
-+ [DOCS + [github.com](http://github.com)](file:///home/tom/github/apifunc/python/DOCS/index.html)
++ [#DOCS ](file:///home/tom/github/apifunc/python/#DOCS/index.html)
 + [DOCS ## Menu](file:///home/tom/github/apifunc/python/DOCS/index.html)
 + [DOCS ## Project](file:///home/tom/github/apifunc/python/DOCS/index.html)
 + [DOCS ## References](file:///home/tom/github/apifunc/python/DOCS/index.html)
