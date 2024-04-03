@@ -1,12 +1,10 @@
 ## Contribution
 
+[CONTRIBUTIONS](http://contribution.softreck.dev) are always welcome:
+
 + [Edit Docs](https://github.com/apifunc/python/edit/main/README.md)
 + [New Issue](https://github.com/apifunc/python/issues/new)
 
-
-## [Contributions](http://contribution.softreck.dev)
-
-[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
 + did you found an [Issue or Mistake](https://github.com/apifunc/python/issues/new)?
 + do you want to [improve](https://github.com/apifunc/python/edit/main/README.md) the article?
 + are you interested do join another [git projects](https://github.com/apifunc/)?
